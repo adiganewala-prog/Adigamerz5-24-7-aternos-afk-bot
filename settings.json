@@ -1,7 +1,7 @@
 {
-  "name": "XenAi",
+  "name": "XenBot",
   "bot-account": {
-    "username": "XenAi",
+    "username": "XenBot",
     "password": "",
     "type": "offline"
   },
