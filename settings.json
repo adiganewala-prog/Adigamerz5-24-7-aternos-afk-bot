@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "XenAi",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "XenAi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "XenVerse.aternos.me",
+    "port": 19100,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 200,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Be Respectfull And Kind To Everyone",
+        "Subscribe to XenVerse!",
+        "For Any Help Join Our DC Or Say To Staffs"
       ]
     },
     "chat-log": true,
